@@ -1,5 +1,5 @@
 import { Attribute } from './attribute';
-import type { DateRangeCell } from '@/utils/date/range';
+import type { DateRangeCell } from './date/range';
 import {
   type Bar,
   type Content,
